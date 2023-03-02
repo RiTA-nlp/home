@@ -11,6 +11,7 @@ Modelli *pretrained*: si tratta di modelli generici che e' possibile specializza
 Modelli *fine-tuned*: si tratta di modelli gia' specializzati ad un caso specifico
 
 - [HATE-ITA](https://github.com/MilaNLProc/hate-ita) 🍕 E' un modello per il riconoscimento automatico (binario, si/no) di contenuto d'odio su Twitter. 
+- [FEEL-IT](https://github.com/MilaNLProc/feel-it) E' un modello per inferire il tono (sentiment positiion o negativo) e le emozioni da un testo.
 
 ## Immagini e Testo
 
