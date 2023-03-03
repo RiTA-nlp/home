@@ -2,6 +2,8 @@
 
 Raccogliamo di seguito alcuni link e puntatori divisi per categoria di interesse.
 
+> Tutto quanto qui è ancora Work In Progress :)
+
 ## 💯 Sprint
 
 Navigare [qui](./sprint) per la lista degli sprint attualmente in corso. 
