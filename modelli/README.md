@@ -11,9 +11,8 @@ Modelli *pretrained*: si tratta di modelli generici che e' possibile specializza
 Modelli *fine-tuned*: si tratta di modelli gia' specializzati ad un caso specifico
 
 - [HATE-ITA](https://github.com/MilaNLProc/hate-ita) 🍕 E' un modello per il riconoscimento automatico (binario, si/no) di contenuto d'odio su Twitter. 
-- [FEEL-IT](https://github.com/MilaNLProc/feel-it) E' un modello per inferire il tono (sentiment positiion o negativo) e le emozioni da un testo.
+- [FEEL-IT](https://github.com/MilaNLProc/feel-it) E' un modello per inferire il "sentiment" (positivo o negativo) e le emozioni da un testo.
 
 ## Immagini e Testo
 
 - [CLIP Italian](https://github.com/clip-italian/clip-italian) 🤌 E' un modello multimodale che unisce immagini e testi italiani. Si puo' usare, ad esempio, per cercare, data una descrizione testuale, l'immagine "piu' simile" in una collezione a quel testo. 
-- TBD
