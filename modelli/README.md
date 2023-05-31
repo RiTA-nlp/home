@@ -17,6 +17,9 @@ Modelli *fine-tuned*: si tratta di modelli gia' specializzati ad un caso specifi
 
 - [HATE-ITA](https://github.com/MilaNLProc/hate-ita) 🍕 E' un modello per il riconoscimento automatico (binario, si/no) di contenuto d'odio su Twitter. 
 - [FEEL-IT](https://github.com/MilaNLProc/feel-it) E' un modello per inferire il "sentiment" (positivo o negativo) e le emozioni da un testo.
+- [setfit-italian-hate-speech](https://huggingface.co/nickprock/setfit-italian-hate-speech) Classificatore binario per riconoscere i contenuti d'odio nei post su facebook.
+- [sentence-bert-base-italian-uncased](https://huggingface.co/nickprock/sentence-bert-base-italian-uncased) e [sentence-bert-base-italian-xxl-cased](https://huggingface.co/nickprock/sentence-bert-base-italian-xxl-uncased) sentence transformer utile per il clustering e la ricerca semantica sincrona, ad esempio FAQ search.
+- [bert-italian-finetuned-ner](https://huggingface.co/nickprock/bert-italian-finetuned-ner) modello per Named Entity Recognition, in particolare classifica i token {LOC, ORG, PER}, ha una sua versione per [SpaCy](https://huggingface.co/nickprock/it_spacy_ner_trf)
 
 ## Immagini e Testo
 
