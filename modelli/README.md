@@ -19,6 +19,7 @@ Modelli *fine-tuned*: si tratta di modelli gia' specializzati ad un caso specifi
 - [FEEL-IT](https://github.com/MilaNLProc/feel-it) E' un modello per inferire il "sentiment" (positivo o negativo) e le emozioni da un testo.
 - [setfit-italian-hate-speech](https://huggingface.co/nickprock/setfit-italian-hate-speech) Classificatore binario per riconoscere i contenuti d'odio nei post su facebook.
 - [sentence-bert-base-italian-uncased](https://huggingface.co/nickprock/sentence-bert-base-italian-uncased) e [sentence-bert-base-italian-xxl-cased](https://huggingface.co/nickprock/sentence-bert-base-italian-xxl-uncased) sentence transformer utile per il clustering e la ricerca semantica sincrona, ad esempio FAQ search.
+- [mmarco-bert-base-italian-uncased](https://huggingface.co/nickprock/mmarco-bert-base-italian-uncased) sentence transformer con fine-tuning su [MMARCO](https://huggingface.co/datasets/unicamp-dl/mmarco/viewer/italian/collection) utile per la ricerca semantica asincrona.
 - [bert-italian-finetuned-ner](https://huggingface.co/nickprock/bert-italian-finetuned-ner) modello per Named Entity Recognition, in particolare classifica i token {LOC, ORG, PER}, ha una sua versione per [SpaCy](https://huggingface.co/nickprock/it_spacy_ner_trf)
 - [electra-italian-xxl-cased-squad-it](https://huggingface.co/anakin87/electra-italian-xxl-cased-squad-it) fine tuning di Electra per QA estrattivo. Fine tuning su SQUAD_it.
 
